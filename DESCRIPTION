@@ -1,0 +1,10 @@
+Package: GSESeq
+Version: 0.99.0
+Title: Gene Set Enrichment for Sequence Data
+Description: This is a toy package implementing, as BioC 2014
+    Developer Day exercise, a method for gene set enrichment for
+    sequence data.
+Author: Developer Day Participants
+Maintainer: Martin Morgan <mtmorgan@fhcrc.org>
+License: Artistic-2.0
+Depends: R (>= 3.1.1)
